@@ -1,0 +1,12 @@
+{
+  "name": "know-brainer-backend",
+  "version": "1.0.0",
+  "description": "Know Brainer Backend",
+  "main": "app.js",
+  "author": {
+    "name": "Tristan Jordan, Sam Dan, Jon Horn"
+  },
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
